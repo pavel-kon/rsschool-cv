@@ -52,12 +52,11 @@ No work experience, but willing to learn
 -  Vinnitsa National Polytechnic University
 -  [Hexlet](https://ru.hexlet.io/webinars)
 -  [Freecodecamp](https://www.freecodecamp.org)
--  [Freecodecamp](https://www.freecodecamp.org)
 -  [Udemy](https://www.udemy.com/course/intensive-js/learn/lecture/16276242)
 
 ---
 
-## English
+## English:
 
 A0 (Beginner, with a translation service)
 
